@@ -1,5 +1,5 @@
 
-let diaEvento = new Date('August 3, 2024 21:30:00').getTime();
+let diaEvento = new Date('August 30, 2024 21:30:00').getTime();
 let boton = document.querySelector("#btn")
 
 
@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3280.238898715504!2d-58.28297802425564!3d-34.69915387292032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDQxJzU3LjAiUyA1OMKwMTYnNDkuNSJX!5e0!3m2!1ses!2sar!4v1715124367159!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '' +
         'Podes ampliar el mapa',
         
         
